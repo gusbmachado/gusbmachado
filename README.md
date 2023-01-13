@@ -2,7 +2,7 @@
   <img align="right" width="200px" height="200px" alt="Gustavo Machado" src="https://github.com/gusbmachado/gusbmachado/blob/main/profile-avatar.png" />
 </div>
 
-<h2><b>Hi, I’m Gustavo Barcelos Machado.</b></h2>
+<h2><b>Hi, I’m Gustavo Machado.</b></h2>
 <br />
 My main interests are web/mobile development and UI design.
 <br />
