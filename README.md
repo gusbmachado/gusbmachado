@@ -16,7 +16,7 @@ I work mainly with ReactJS and TypeScript.
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusbmachado&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusbmachado&&show_icons=true&count_private=true)
 
 <br />
 
