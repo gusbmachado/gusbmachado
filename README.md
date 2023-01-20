@@ -33,6 +33,9 @@ You can found my CV on LinkedIn.
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="figma" src="https://cdn-images-1.medium.com/max/1600/1*6XgfDCVn81AYX68Xvd2I-g@2x.png"></code>    
 
+<div>
+  <img align="right" width="200px" height="233.3px" alt="Gustavo Machado" src="https://github.com/gusbmachado/gusbmachado/blob/main/CV-QRCode.png" />
+</div>
 <h3><b>Statistics</b></h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusbmachado&&show_icons=true&count_private=true)
