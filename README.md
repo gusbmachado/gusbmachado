@@ -47,7 +47,7 @@ You can found my CV on LinkedIn.
 </div> -->
 <h3><b>Statistics</b></h3>
 
-| ![GitHub Stats](https://github-stats.jinliming2.com/api?username=gusbmachado&show_icons=true&count_private=true&bg_color=transparent&hide_border=1&line_height=28) | ![Most Used Languages](https://github-stats.jinliming2.com/api/top-langs/?username=gusbmachado&layout=compact&bg_color=transparent&hide_border=1&card_width=444&langs_count=10,BiliBili-UWP) |
+| ![GitHub Stats](https://github-stats.jinliming2.com/api?username=gusbmachado&show_icons=true&count_private=true&bg_color=transparent&hide_border=1&line_height=28) | ![Most Used Languages](https://github-stats.jinliming2.com/api/top-langs/?username=gusbmachado&layout=compact&count_private=true&bg_color=transparent&hide_border=1&card_width=444&langs_count=10,BiliBili-UWP) |
 |:-----:|:-----:|
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusbmachado&&show_icons=true&count_private=true)
