@@ -63,6 +63,6 @@ You can click the Preview link to take a look at your changes.
 <h3>🏆 <b>Github Profile Trophy<b></h3>
 <p align="center">
   <a href="https://github.com/gusbmachado">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=gusbmachado&column=5&no-frame=true"/>
+    <img width=1200 src="https://github-profile-trophy.vercel.app/?username=gusbmachado&column=7&no-frame=true"/>
   </a>
 </p>
