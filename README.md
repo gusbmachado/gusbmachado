@@ -26,7 +26,7 @@ You can found my CV on LinkedIn.
 
 <br />
 
-<h3><b>Technologies</b></h3>
+<h3>👨‍💻 <b>Technologies</b></h3>
 
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -47,7 +47,7 @@ You can found my CV on LinkedIn.
 <div>
   <img align="right" width="200px" height="233.3px" alt="Gustavo Machado" src="https://github.com/gusbmachado/gusbmachado/blob/main/CV-QRCode.png" />
 </div> -->
-<h3><b>Statistics</b></h3>
+<h3>📊 <b>Statistics</b></h3>
 
 | ![GitHub Stats](https://github-stats.jinliming2.com/api?username=gusbmachado&show_icons=true&count_private=true&bg_color=transparent&hide_border=1&line_height=28) | ![Most Used Languages](https://github-stats.jinliming2.com/api/top-langs/?username=gusbmachado&layout=compact&count_private=true&bg_color=transparent&hide_border=1&card_width=444&langs_count=10,BiliBili-UWP) |
 |:-----:|:-----:|
@@ -59,3 +59,10 @@ You can found my CV on LinkedIn.
 gusbmachado/gusbmachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h3>🏆 <b>Github Profile Trophy<b></h3>
+<p align="center">
+  <a href="https://github.com/gusbmachado">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=gusbmachado&column=5&no-frame=true"/>
+  </a>
+</p>
