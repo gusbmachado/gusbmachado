@@ -12,16 +12,15 @@ My main interests are web/mobile development and UI design.
 I work mainly with ReactJS and TypeScript.
 <br />
 You can found my CV on LinkedIn.
-<br /><br />
+<br />
+
+<h3>📇 <b>Contact me</b></h3>
 
 <a href="https://www.linkedin.com/in/gustavo-machado-40a250186/">
   <img align="left" alt="Gustavo Machado | Linkedin" width="21px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />
 </a>
 <a href="mailto:gustavobmachado105@gmail.com">
   <img align="left" alt="Gustavo Machado | Gmail" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Fuploads%2F1%2F11%2Fgmail-02.png&f=1&nofb=1&ipt=2383076da332200e88559dd5489508db09a78af8c62725e476cb7c4781b3236e&ipo=images" />
-</a>
-<a href="https://codesandbox.io/u/gustavobmachado105">
-  <img align="left" alt="Gustavo Machado | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
 <br />
@@ -66,3 +65,14 @@ You can click the Preview link to take a look at your changes.
     <img width=1200 src="https://github-profile-trophy.vercel.app/?username=gusbmachado&column=7&no-frame=true"/>
   </a>
 </p>
+  
+  <br />
+
+<h3>⚙️ <b>Features</b></h3>
+
+<a href="https://codesandbox.io/u/gustavobmachado105">
+  <img align="left" alt="Gustavo Machado | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://www.npmjs.com/~gusbmachado105">
+  <img align="left" alt="Gustavo Machado | NPM js" width="30px" src="https://user-images.githubusercontent.com/43426219/219484066-63622815-b0fd-4c6f-9cbc-c2fa1c543be8.png" />
+</a>
