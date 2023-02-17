@@ -65,8 +65,6 @@ You can click the Preview link to take a look at your changes.
     <img width=1200 src="https://github-profile-trophy.vercel.app/?username=gusbmachado&column=7&no-frame=true"/>
   </a>
 </p>
-  
-  <br />
 
 <h3>⚙️ <b>Features</b></h3>
 
