@@ -50,6 +50,18 @@ You can found my CV on LinkedIn.
 <div>
   <img align="right" width="200px" height="233.3px" alt="Gustavo Machado" src="https://github.com/gusbmachado/gusbmachado/blob/main/CV-QRCode.png" />
 </div> -->
+
+<h3>⚙️ <b>My Features</b></h3>
+
+<a href="https://codesandbox.io/u/gustavobmachado105">
+  <img align="left" alt="Gustavo Machado | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://www.npmjs.com/~gusbmachado105">
+  <img align="left" alt="Gustavo Machado | NPM js" width="30px" src="https://user-images.githubusercontent.com/43426219/219484066-63622815-b0fd-4c6f-9cbc-c2fa1c543be8.png" />
+</a>
+
+<br />
+
 <h3>📊 <b>Statistics</b></h3>
 
 | ![GitHub Stats](https://github-stats.jinliming2.com/api?username=gusbmachado&show_icons=true&count_private=true&bg_color=transparent&hide_border=1&line_height=28) | ![Most Used Languages](https://github-stats.jinliming2.com/api/top-langs/?username=gusbmachado&layout=compact&count_private=true&bg_color=transparent&hide_border=1&card_width=444&langs_count=10,BiliBili-UWP) |
@@ -69,12 +81,3 @@ You can click the Preview link to take a look at your changes.
     <img width=1200 src="https://github-profile-trophy.vercel.app/?username=gusbmachado&column=7&no-frame=true"/>
   </a>
 </p>
-
-<h3>⚙️ <b>Features</b></h3>
-
-<a href="https://codesandbox.io/u/gustavobmachado105">
-  <img align="left" alt="Gustavo Machado | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://www.npmjs.com/~gusbmachado105">
-  <img align="left" alt="Gustavo Machado | NPM js" width="30px" src="https://user-images.githubusercontent.com/43426219/219484066-63622815-b0fd-4c6f-9cbc-c2fa1c543be8.png" />
-</a>
