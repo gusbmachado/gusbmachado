@@ -1,17 +1,15 @@
-<div>
-  <img align="right" width="200px" height="200px" alt="Gustavo Machado" src="https://github.com/gusbmachado/gusbmachado/blob/main/profile-avatar.png" />
-</div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gusbmachado.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/gusbmachado?style=social)
 
-<h2><b>Hi, I’m Gustavo Machado.</b></h2>
+<h2>Hi, I’m Gustavo Machado.</h2>
+<div>
+  <img align="right" top="50px" width="200px" height="200px" style="z-index: 2;position: relative;" alt="Gustavo Machado" src="https://github.com/gusbmachado/gusbmachado/blob/main/profile-avatar.png" />
+</div>
 <br />
 My main interests are web/mobile development and UI design.
 <br />
 I work mainly with ReactJS and TypeScript.
 <br />
-You can found my CV on LinkedIn.
+You can find my CV on LinkedIn.
 <br />
 
 <h3>📇 <b>Contact me</b></h3>
@@ -46,10 +44,6 @@ You can found my CV on LinkedIn.
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="figma" src="https://cdn-images-1.medium.com/max/1600/1*6XgfDCVn81AYX68Xvd2I-g@2x.png"></code> 
-<!-- 
-<div>
-  <img align="right" width="200px" height="233.3px" alt="Gustavo Machado" src="https://github.com/gusbmachado/gusbmachado/blob/main/CV-QRCode.png" />
-</div> -->
 
 <h3>⚙️ <b>My Features</b></h3>
 
@@ -64,16 +58,8 @@ You can found my CV on LinkedIn.
 
 <h3>📊 <b>Statistics</b></h3>
 
-| ![GitHub Stats](https://github-stats.jinliming2.com/api?username=gusbmachado&show_icons=true&count_private=true&bg_color=transparent&hide_border=1&line_height=28) | ![Most Used Languages](https://github-stats.jinliming2.com/api/top-langs/?username=gusbmachado&layout=compact&count_private=true&bg_color=transparent&hide_border=1&card_width=444&langs_count=10,BiliBili-UWP) |
-|:-----:|:-----:|
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusbmachado&&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusbmachado) -->
-<!---
-gusbmachado/gusbmachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gusbmachado?cardType=level&preferLogin=false&Border=00000000) | ![gusbmachado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gusbmachado&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![gusbmachado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gusbmachado&theme=default&hide_border=true) | 
+|:--------------------------------------------:|:----------------------------------------:|:---------------------------------------------------------------------------------:|
 
 <h3>🏆 <b>Github Profile Trophy<b></h3>
 <p align="center">
