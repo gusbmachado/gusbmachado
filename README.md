@@ -45,21 +45,25 @@ You can find my CV on LinkedIn.
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="figma" src="https://cdn-images-1.medium.com/max/1600/1*6XgfDCVn81AYX68Xvd2I-g@2x.png"></code> 
 
-<h3>⚙️ <b>My Features</b></h3>
+<h3>⚙️ <b>CodeSandbox Projects</b></h3>
 
 <a href="https://codesandbox.io/u/gustavobmachado105">
   <img align="left" alt="Gustavo Machado | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://www.npmjs.com/~gusbmachado105">
-  <img align="left" alt="Gustavo Machado | NPM js" width="30px" src="https://user-images.githubusercontent.com/43426219/219484066-63622815-b0fd-4c6f-9cbc-c2fa1c543be8.png" />
-</a>
+
+<br />
+
+<h3>📦 <b>NPM Packages</b></h3>
+<a href="https://img.shields.io/npm/dt/react-custom-duration-picker?style=flat-square" target="_blank"><b>react-custom-duration-picker</b></a><br />
+<a href="https://img.shields.io/npm/dt/react-dynamic-tabs?style=flat-square" target="_blank"><b>react-dynamic-tabs</b></a><br />
+<a href="https://img.shields.io/npm/dt/react-rect-progressbar?style=flat-square" target="_blank"><b>react-rect-progressbar</b></a><br />
+<a href="https://npmtrends.com/react-custom-duration-picker-vs-react-dynamic-tabs-vs-react-rect-progressbar" target="_blank"><b>View download history on npm trends</b></a>
 
 <br />
 
 <h3>📊 <b>Statistics</b></h3>
 
-| ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gusbmachado?cardType=level&preferLogin=false&Border=00000000) | ![gusbmachado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gusbmachado&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![gusbmachado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gusbmachado&theme=default&hide_border=true) | 
-|:--------------------------------------------:|:----------------------------------------:|:---------------------------------------------------------------------------------:|
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gusbmachado?cardType=level&preferLogin=false&Border=00000000)![gusbmachado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gusbmachado&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=10)
 
 <h3>🏆 <b>Github Profile Trophy<b></h3>
 <p align="center">
