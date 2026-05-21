@@ -76,5 +76,5 @@ My expertise bridges the gap between robust software development (Web & Mobile) 
 
 ### 🔥 **GitHub Streak**
 <a href="https://github.com/gusbmachado">
-  <img height="200" src="https://streak-stats.demolab.com/?user=gusbmachado&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=gusbmachado&theme=default&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </a>
